@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "797005728158",
+    "project_id": "p08yamamoto",
+    "storage_bucket": "p08yamamoto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797005728158:android:6b17263be730c5d3032e8f",
+        "android_client_info": {
+          "package_name": "io.izisoft.p13thaivan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797005728158-8kb13e3qq63o96epnqcjqfbq1m58rk9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p13thaivan",
+            "certificate_hash": "e72c2633fce4bf3bffd653a5985e42034982486c"
+          }
+        },
+        {
+          "client_id": "797005728158-r50pkko192g9q8i88tvk36bsb1r2ljft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7MXFX0aoOkbitSJn3AYoP4HXGpBqYV30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797005728158-r50pkko192g9q8i88tvk36bsb1r2ljft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797005728158-rbf54km2fu7024fl9mgq7senaqf94rli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.p13thaivan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
